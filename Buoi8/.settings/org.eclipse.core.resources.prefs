@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/Controller/MainProgram/MainProgram.java=UTF-8
+encoding//src/Controller/Utils/ScannerUtils.java=UTF-8
+encoding//src/Model/enmuPack/Chucvu.java=UTF-8
+encoding//src/Model/enmuPack/Gioitinh.java=UTF-8
+encoding//src/Model/enmuPack/Type.java=UTF-8
+encoding//src/Model/enmuPack/Vitri.java=UTF-8
+encoding//src/Model/entity/Giangvien.java=UTF-8
+encoding//src/Model/entity/Lichgiangday.java=UTF-8
+encoding//src/Model/entity/Lichhoc.java=UTF-8
+encoding//src/Model/entity/Lichtruc.java=UTF-8
+encoding//src/Model/entity/Nhanvien.java=UTF-8
+encoding//src/Model/entity/Sinhvien.java=UTF-8
+encoding//src/View/Input.java=UTF-8
+encoding//src/View/Menu.java=UTF-8
+encoding//src/View/Output.java=UTF-8
